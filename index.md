@@ -27,12 +27,8 @@ Design에 대해 관심이 많고, *깊은 코드*에 대해서도 알아가기 
  - Swift
  - UIKit
  - Auto Layout
- - MVVM (Not familiar)
- <br/>
- 
+ - MVVM (Not familiar) 
  - Firebase
  - Kingfisher
- <br/>
- 
  - GitHub (on Xcode)
  - Slack
