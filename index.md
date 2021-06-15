@@ -3,9 +3,9 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+안녕하세요. iOS 개발자 장기화입니다. 😉
+Apple 공식 사이트의 UIX에서 Developer에 대한 매력을 느껴 개발에 입문하였습니다.
+Design에 대해 관심이 많고, *깊은 코드*에 대해서도 알아가기 위해 노력중입니다.
 
 <br/>
 
