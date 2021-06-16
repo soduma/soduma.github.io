@@ -9,6 +9,7 @@ layout: about
 - Apple 공식 사이트의 UIX에서 Developer에 대한 매력을 느껴 이에 매진하고 있습니다.<br/>
 - Design에 대해 관심이 많고, *깊은 코드*에 대해서도 알아가고 있습니다.
 
+
 ### Contacts
 - +82-10-9011-9910
 - <soduma2@gmail.com>
@@ -48,4 +49,4 @@ layout: about
 # Project
 ### Meteor
  - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
- - [GitHub](github.com/soduma/Meteor)
+ - [GitHub](https://github.com/soduma/Meteor)
