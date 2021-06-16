@@ -13,8 +13,8 @@ layout: about
 ### Contacts
 - +82-10-9011-9910
 - <soduma2@gmail.com>
-- [GitHub](github.com/soduma)
-- [Instagram](instagram.com/infofield)
+- [GitHub](https://github.com/soduma)
+- [Instagram](https://instagram.com/infofield)
 
 <br/>
 
