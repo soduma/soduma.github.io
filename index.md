@@ -11,7 +11,7 @@ layout: about
 
 # Career
 - 개발자로서의 경력은 없습니다.
-  - 이 항목을 채우기 위해 나아가는 중입니다.
+  - 이 항목을 채우기 위해 나아가고 있습니다.
 
 <br/>
 
@@ -27,7 +27,7 @@ layout: about
  - Swift
  - UIKit
  - Auto Layout
- - MVVM (Not familiar) 
+ - MVVM (Not familiar yet) 
  - Firebase
  - Kingfisher
  - GitHub (on Xcode)
