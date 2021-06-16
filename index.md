@@ -14,7 +14,7 @@ layout: about
 - +82-10-9011-9910
 - <soduma2@gmail.com>
 - [GitHub](https://github.com/soduma)
-- [Instagram](https://instagram.com/infofield)
+- [Instagram](https://instagram.com/infofield) @infofield
 
 <br/>
 
