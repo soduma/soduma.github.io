@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-# About Me
+# 🧢 About Me
 ### 안녕하세요. `iOS` 개발자 장기화입니다. 🐤<br/>
 - 능력적인 부분뿐만 아니라 인격적으로도 훌륭한 사람이 되기위해 노력합니다.
 - Apple 공식 사이트의 UIX에서 Developer에 대한 매력을 느껴 이에 매진하고 있습니다.<br/>
@@ -11,7 +11,7 @@ layout: about
 
 <br/>
 
-# Contacts
+# 📱 Contacts
 - +82-10-9011-9910
 - Email : <soduma2@gmail.com>
 - Github : [soduma](https://github.com/soduma)
@@ -19,7 +19,7 @@ layout: about
 
 <br/>
 
-# Education
+# 📖 Education
 - 동의대학교 e비즈니스전공 *(2012. 03 - 2019. 02)*
   - 경영학과 컴퓨터공학이 어우러져 있는 학문입니다.
   - CS의 기초 및 Java, SQL 등의 언어를 수강하였습니다.
@@ -27,12 +27,12 @@ layout: about
 
 <br/>
 
-# Skills
+# 🍳 Skills
 - iOS
-  - `Swift`
-  - `UIKit`
-  - `AVFoundation`
-  - `Codable`
+  - Swift
+  - UIKit
+  - AVFoundation
+  - Codable
   - AutoLayout
   - MVVM (Not familiar yet)
   <br/>
@@ -44,12 +44,13 @@ layout: about
 
 <br/>
 
-# Project
-### Meteor
+# 💻 Project
+### `Meteor`
  - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
  - [GitHub](https://github.com/soduma/Meteor)
 
 <br/>
 
-## Certificate
-- 컴퓨터활용능력 1급
+# 🎖 Certificate
+### 컴퓨터활용능력 1급
+- 2018.09.09 취득
