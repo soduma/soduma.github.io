@@ -57,7 +57,7 @@ layout: about
 
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
-- [GitHub](https://github.com/soduma/Meteor)
+- [Github](https://github.com/soduma/Meteor)
  
 <br/>
 
