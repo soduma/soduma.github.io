@@ -35,7 +35,8 @@ layout: about
   - Codable
   - AutoLayout
   - MVVM (Not familiar yet)
-   
+<br/>
+
 - etc
   - Firebase
   - Kingfisher
@@ -46,7 +47,7 @@ layout: about
 
 # 💻 Project
 
-### `Meteor`
+## `Meteor`
 📕 알림 창에 메모해보세요
 ![logo210408](https://user-images.githubusercontent.com/69476598/119452474-6053f080-bd71-11eb-840c-fbfa2998a811.png)
 
@@ -57,7 +58,6 @@ layout: about
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
 - [GitHub](https://github.com/soduma/Meteor)
- ***
  
 <br/>
 
