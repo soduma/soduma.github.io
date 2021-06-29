@@ -59,17 +59,18 @@ layout: about
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
 - [Github](https://github.com/soduma/Meteor)
- 
- ***
- 
- ## `FLO MusicPlayer`
- 🎧 간단한 음악 플레이어
- ![FLO_Splash-Img3x(1242x2688)](https://user-images.githubusercontent.com/69476598/123757220-b67bfc80-d8f8-11eb-855b-7fd5abf16c09.png) 
- 
- ### 🍀 [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
+
+   
+   
+## `FLO MusicPlayer`
+🎧 간단한 음악 플레이어
+![FLO_Splash-Img3x(1242x2688)](https://user-images.githubusercontent.com/69476598/123757220-b67bfc80-d8f8-11eb-855b-7fd5abf16c09.png) 
+
+### 🍀 [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
 >상세요구 사항은 아래 repository의 readme를 확인해주세요.
 
 - [Github](https://github.com/soduma/FLO_iOS)
+
 <br/>
 
 # 🎖 Certificate
