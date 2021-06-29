@@ -60,10 +60,11 @@ layout: about
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
 - [Github](https://github.com/soduma/Meteor)
 
-   
-   
+<br/>
+
 ## `FLO MusicPlayer`
 🎧 간단한 음악 플레이어
+
 ![FLO_Splash-Img3x(1242x2688)](https://user-images.githubusercontent.com/69476598/123757220-b67bfc80-d8f8-11eb-855b-7fd5abf16c09.png) 
 
 ### 🍀 [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
