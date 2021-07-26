@@ -2,6 +2,8 @@
 layout: about 
 ---
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DD116B&title_bg=%23000000&icon=mailchimp.svg&icon_color=%23FAFF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 🧢 About Me
 ### 안녕하세요. `iOS` 개발자 장기화입니다. 🐤
 - 능력적인 부분뿐만 아니라 인격적으로도 훌륭한 사람이 되기위해 노력합니다.
