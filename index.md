@@ -56,7 +56,7 @@ layout: about
 >대부분의 투두 앱이 가지고 있는 '하루 중 지정된 시각'에 '지정된 알림'을 받던 방식을 벗어나   
 >**입력한 내용을 즉시 알림창에서 푸시받는** 그 자체로 하나의 메모장으로 사용할 수 있도록 구현하였습니다.
 >
->Firebase
+>`Firebase`
 
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
@@ -72,7 +72,7 @@ layout: about
 ### 🍀 [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
 >상세요구 사항은 아래 repository의 readme를 확인해주세요.
 >
->Kingfisher
+>`Kingfisher`
 
 - [Github](https://github.com/soduma/FLO_iOS)
 
@@ -81,5 +81,7 @@ layout: about
 # 🎖 Certificate
 ### 컴퓨터활용능력 1급
 - 2018.09.09 취득
+
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoduma%2Fsoduma.github.io&count_bg=%23DD116B&title_bg=%23000000&icon=mailchimp.svg&icon_color=%23FAFF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
