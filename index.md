@@ -34,7 +34,7 @@ layout: about
   - AVFoundation
   - Codable
   - Storyboard
-  - AutoLayout
+  - Autolayout
   - MVVM (Not familiar yet)
 <br/>
 
@@ -55,6 +55,8 @@ layout: about
 ### 🍀 Meteor는 아이폰의 기본앱 중 미리알림에서 영감을 받아 제작한 투두 앱입니다.
 >대부분의 투두 앱이 가지고 있는 '하루 중 지정된 시각'에 '지정된 알림'을 받던 방식을 벗어나   
 >**입력한 내용을 즉시 알림창에서 푸시받는** 그 자체로 하나의 메모장으로 사용할 수 있도록 구현하였습니다.
+>
+>Firebase
 
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
@@ -69,6 +71,8 @@ layout: about
 
 ### 🍀 [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
 >상세요구 사항은 아래 repository의 readme를 확인해주세요.
+>
+>Kingfisher
 
 - [Github](https://github.com/soduma/FLO_iOS)
 
