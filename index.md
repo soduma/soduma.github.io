@@ -38,7 +38,6 @@ layout: about
   - MVVM (Not familiar yet)
   
 <br/>
-
 - etc
   - Firebase
   - Kingfisher
