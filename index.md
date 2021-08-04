@@ -36,8 +36,7 @@ layout: about
   - Storyboard
   - Autolayout
   - MVVM (Not familiar yet)
-  
-<br/>
+
 - etc
   - Firebase
   - Kingfisher
