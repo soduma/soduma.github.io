@@ -35,15 +35,14 @@ layout: about
   - Codable
   - Storyboard
   - Autolayout
-  - MVVM (Not familiar yet)
   
 <br/>
 
 - etc
   - Firebase
+  - SnapKit
   - Kingfisher
-  - GitHub (on **Xcode**, Sourcetree)
-  - Slack
+  - Git (on **Xcode**, Sourcetree)
 
 <br/>
 
@@ -57,7 +56,9 @@ layout: about
 >대부분의 투두 앱이 가지고 있는 '하루 중 지정된 시각'에 '지정된 알림'을 받던 방식을 벗어나   
 >**입력한 내용을 즉시 알림창에서 푸시받는** 그 자체로 하나의 메모장으로 사용할 수 있도록 구현하였습니다.
 >
->`Firebase`
+>`WidgetKit`
+>`Firebase Realtime Database`
+>`Google Admob`
 
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
