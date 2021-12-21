@@ -69,7 +69,7 @@ layout: about
 ## `App Store`
 🎧 앱스토어 클론앱
 
-![appstore](https://user-images.githubusercontent.com/69476598/146873867-a727fd16-be22-47c5-bb49-5625650972da.jpeg)
+![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
 
 ### 🍀 앱스토어의 레이아웃을 모방한 앱입니다.
 >
