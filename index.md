@@ -71,12 +71,26 @@ layout: about
 
 ![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
 
-### 🍀 앱스토어의 레이아웃을 모방한 앱입니다.
+### 🍀 앱스토어의 레이아웃을 클론한 앱입니다.
 >
 >`SnapKit`
 >`Kingfisher`
 
 - [Github](https://github.com/soduma/AppStore123)
+
+<br/>
+
+## `스타벅스`
+🎧 스타벅스 클론앱
+
+![starbucks](https://user-images.githubusercontent.com/69476598/149283390-2badf7f3-e4c2-45b5-bff6-48ded608c1b5.png)
+
+### 🍀 스타벅스 어플의 레이아웃을 클론한 앱입니다.
+>
+>`SwiftUI`
+>`Combine`
+
+- [Github](https://github.com/soduma/Starbucks123)
 
 <br/>
 
@@ -89,6 +103,7 @@ layout: about
 >상세요구 사항은 아래 repository의 readme를 확인해주세요.
 >
 >`Kingfisher`
+>`AVFoundation`
 
 - [Github](https://github.com/soduma/FLO_iOS)
 
