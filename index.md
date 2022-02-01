@@ -31,8 +31,8 @@ layout: about
 - iOS
   - Swift
   - UIKit
+  - SwiftUI
   - AVFoundation
-  - Codable
   - Storyboard
   - Autolayout
   
@@ -42,7 +42,9 @@ layout: about
   - Firebase
   - SnapKit
   - Kingfisher
-  - Git (on **Xcode**, Sourcetree)
+  - Alamofire
+  - SwiftLint
+  - Git (with **Xcode**, Sourcetree)
 
 <br/>
 
