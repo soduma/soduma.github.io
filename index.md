@@ -69,7 +69,7 @@ layout: about
 <br/>
 
 ## `App Store`
-🎧 앱스토어 클론앱
+📲 앱스토어 클론앱
 
 ![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
 
@@ -82,17 +82,18 @@ layout: about
 
 <br/>
 
-## `스타벅스`
-🎧 스타벅스 클론앱
+## `네이버 뉴스`
+📰 네이버API를 이용한 뉴스앱
 
-![starbucks](https://user-images.githubusercontent.com/69476598/149283390-2badf7f3-e4c2-45b5-bff6-48ded608c1b5.png)
+![Simulator Screen Shot - iPhone 13 - 2022-02-10 at 15 29 05](https://user-images.githubusercontent.com/69476598/153350671-051ac290-eb84-4d4b-85fa-7cbee2089a3e.png)
 
-### 🍀 스타벅스 어플의 레이아웃을 클론한 앱입니다.
+### 🍀 지정된 태그를 통해 뉴스를 볼 수 있는 앱입니다.
 >
->`SwiftUI`
->`Combine`
+>`WebKit`
+>`SnapKit`
+>`TTGTags`
 
-- [Github](https://github.com/soduma/Starbucks123)
+- [Github](https://github.com/soduma/News_MVP123)
 
 <br/>
 
