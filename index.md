@@ -85,7 +85,7 @@ layout: about
 ## `네이버 뉴스`
 📰 네이버API를 이용한 뉴스앱
 
-![Simulator Screen Shot - iPhone 13 - 2022-02-10 at 15 29 05](https://user-images.githubusercontent.com/69476598/153350671-051ac290-eb84-4d4b-85fa-7cbee2089a3e.png)
+![news](https://user-images.githubusercontent.com/69476598/153351945-902b47b6-8cea-48fc-9b9f-d52b1c9f5523.png)
 
 ### 🍀 지정된 태그를 통해 뉴스를 볼 수 있는 앱입니다.
 >
