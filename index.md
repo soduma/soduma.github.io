@@ -44,7 +44,7 @@ layout: about
   - Kingfisher
   - Alamofire
   - SwiftLint
-  - Git (with **Xcode**, Sourcetree)
+  - Git (with Xcode, Sourcetree)
 
 <br/>
 
@@ -114,7 +114,7 @@ layout: about
 
 # 🎖 Certificate
 ### 컴퓨터활용능력 1급
-- 2018.09.09 취득
+- 2018.08.03 취득
 
 <br/>
 
