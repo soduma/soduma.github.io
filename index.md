@@ -12,8 +12,8 @@ layout: about
 <br/>
 
 # 📱 Contacts
-- +82-10-9011-9910
-- Email : <dev.soduma@gmail.com>
+- Phone : +82-10-9011-9910
+- Email : <soduma@naver.com>
 - Github : [soduma](https://github.com/soduma)
 - Instagram : [@infofield](https://instagram.com/infofield)
 
