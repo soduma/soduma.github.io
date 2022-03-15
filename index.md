@@ -35,6 +35,7 @@ layout: about
   - AVFoundation
   - Storyboard
   - Autolayout
+  - async-await
   
 <br/>
 
@@ -68,13 +69,12 @@ layout: about
 
 <br/>
 
-
 ## `Unsplash`
-📕 키워드 사진앱
+🌄 키워드 사진앱
 ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/69476598/158305091-296e74b5-c94b-4f5a-9db6-312bcdbb6dbb.gif)
 
 ### 🍀 키워드를 통해 사진을 제공하는 앱입니다.
->complete handler의 사용을 자제하고 async-await로 구현하였습니다.
+>completion handler의 사용을 자제하고 async-await로 구현하였습니다.
 >
 >`async-await`
 >`Alamofire`
