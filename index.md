@@ -35,7 +35,7 @@ layout: about
   - AVFoundation
   - Storyboard
   - Autolayout
-  - async-await
+  - async/await
   
 <br/>
 
@@ -74,9 +74,9 @@ layout: about
 ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/69476598/158305091-296e74b5-c94b-4f5a-9db6-312bcdbb6dbb.gif)
 
 ### 🍀 키워드를 통해 사진을 제공하는 앱입니다.
->completion handler를 대체하여 async-await로 구현하였습니다.
+>completion handler를 대체하여 async/await로 구현하였습니다.
 >
->`async-await`
+>`async/await`
 >`Alamofire`
 >`Kingfisher`
 
