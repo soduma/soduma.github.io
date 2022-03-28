@@ -84,20 +84,6 @@ layout: about
 
 <br/>
 
-## `App Store`
-📲 앱스토어 클론앱
-
-![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
-
-### 🍀 앱스토어의 레이아웃을 클론한 앱입니다.
->
->`SnapKit`
->`Kingfisher`
-
-- [Github](https://github.com/soduma/AppStore123)
-
-<br/>
-
 ## `네이버 뉴스`
 📰 네이버API를 이용한 뉴스앱
 
@@ -110,6 +96,20 @@ layout: about
 >`TTGTags`
 
 - [Github](https://github.com/soduma/News_MVP123)
+
+<br/>
+
+## `App Store`
+📲 앱스토어 클론앱
+
+![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
+
+### 🍀 앱스토어의 레이아웃을 클론한 앱입니다.
+>
+>`SnapKit`
+>`Kingfisher`
+
+- [Github](https://github.com/soduma/AppStore123)
 
 <br/>
 
