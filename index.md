@@ -84,6 +84,20 @@ layout: about
 
 <br/>
 
+## `Find Center`
+📲 코로나 예방접종 센터앱
+
+![Simulator Screen Shot - iPhone 13 Pro - 2022-04-20 at 20 15 36](https://user-images.githubusercontent.com/69476598/164219214-c4d3dedb-1a0f-4e53-83a1-e3c62421dd7b.png)
+
+### 🍀 예방접종이 가능한 센터의 정보를 표시하는 앱입니다.
+>
+>`SwiftUI`
+>`Combine`
+
+- [Github](https://github.com/soduma/FindCoronaCenter123)
+
+<br/>
+
 ## `네이버 뉴스`
 📰 네이버API를 이용한 뉴스앱
 
