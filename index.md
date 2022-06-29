@@ -36,10 +36,12 @@ layout: about
   - Storyboard
   - Autolayout
   - async/await
+  - SPM
   
 <br/>
 
 - etc
+  - CocoaPods
   - Firebase
   - SnapKit
   - Kingfisher
@@ -81,6 +83,21 @@ layout: about
 >`Kingfisher`
 
 - [Github](https://github.com/soduma/Unsplash)
+
+<br/>
+
+## `SomeVehicle`
+🚐 차량 찾기앱
+![SomeCar](https://user-images.githubusercontent.com/69476598/176422219-8cb178e9-038d-4cae-8510-b8118863e33c.gif)
+
+### 🍀 특정 위치에 있는 차량의 목록을 찾는 앱입니다.
+>
+>`MapKit`
+>`async/await`
+>`Alamofire`
+>`Kingfisher`
+
+- [Github](https://github.com/soduma/Somecar)
 
 <br/>
 
