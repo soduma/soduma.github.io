@@ -11,7 +11,7 @@ layout: about
 
 <br/>
 
-# 📱 Contacts
+# 🤙 Contacts
 - Phone : +82-10-9011-9910
 - Email : <soduma@naver.com>
 - Github : [soduma](https://github.com/soduma)
@@ -88,7 +88,7 @@ layout: about
 
 ## `SomeVehicle`
 🚐 차량 찾기앱
-![SomeCar](https://user-images.githubusercontent.com/69476598/176422219-8cb178e9-038d-4cae-8510-b8118863e33c.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/69476598/180669547-ce97ff77-b099-461a-809d-6a8e70949f5e.gif)
 
 ### 🍀 특정 위치에 있는 차량의 목록을 찾는 앱입니다.
 >
@@ -97,13 +97,12 @@ layout: about
 >`Alamofire`
 >`Kingfisher`
 
-- [Github](https://github.com/soduma/Somecar)
+- [Github](https://github.com/soduma/SomeVehicle)
 
 <br/>
 
 ## `Find Center`
-📲 코로나 예방접종 센터앱
-
+💉 코로나 예방접종 센터앱
 ![Simulator Screen Shot - iPhone 13 Pro - 2022-04-20 at 20 15 36](https://user-images.githubusercontent.com/69476598/164219214-c4d3dedb-1a0f-4e53-83a1-e3c62421dd7b.png)
 
 ### 🍀 예방접종이 가능한 센터의 정보를 표시하는 앱입니다.
@@ -117,7 +116,6 @@ layout: about
 
 ## `네이버 뉴스`
 📰 네이버API를 이용한 뉴스앱
-
 ![news](https://user-images.githubusercontent.com/69476598/153351945-902b47b6-8cea-48fc-9b9f-d52b1c9f5523.png)
 
 ### 🍀 지정된 태그를 통해 뉴스를 볼 수 있는 앱입니다.
@@ -132,7 +130,6 @@ layout: about
 
 ## `App Store`
 📲 앱스토어 클론앱
-
 ![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
 
 ### 🍀 앱스토어의 레이아웃을 클론한 앱입니다.
@@ -146,7 +143,6 @@ layout: about
 
 ## `FLO MusicPlayer`
 🎧 간단한 음악 플레이어
-
 ![FLO_Splash-Img3x(1242x2688)](https://user-images.githubusercontent.com/69476598/123757220-b67bfc80-d8f8-11eb-855b-7fd5abf16c09.png) 
 
 ### 🍀 [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
