@@ -6,7 +6,7 @@ layout: about
 ### 안녕하세요. `iOS` 개발자 장기화입니다. 🐤
 - 능력적인 부분뿐만 아니라 인격적으로도 훌륭한 사람이 되기위해 노력합니다.
 - Apple 공식 사이트의 UI/UX에서 Developer에 대한 매력을 느낀 이후 이에 매진하고 있습니다.
-- Design 및 UI/UX에 대해 관심이 많고, *깊은 코드*에 대해서도 알아가고 있습니다.
+- Design 및 UI/UX에 대해 관심이 많고, 깊은 코드에 대해서도 알아가고 있습니다.
 - 시간이 나서 하기보다는, 시간을 내서 하자는 말을 항상 생각합니다.
 
 <br/>
@@ -27,6 +27,13 @@ layout: about
 
 <br/>
 
+# 🧑🏻‍💻 Experience
+- 한양대학교 블록체인연구원 *(2022. 09 ~ 현재)*
+  - 블록체인 기반의 코인들을 관리하고 송금할 수 있는 지갑앱 개발
+  - C
+
+<br/>
+
 # 🍳 Skills
 - iOS
   - Swift
@@ -35,19 +42,28 @@ layout: about
   - AVFoundation
   - Storyboard
   - Autolayout
-  - async/await
+  - Concurrency(async/await)
   - SPM
   
 <br/>
 
-- etc
+- Library
   - CocoaPods
   - Firebase
   - SnapKit
   - Kingfisher
   - Alamofire
   - SwiftLint
-  - Git (with Xcode, Sourcetree)
+  - Realm
+  - SwiftyJson
+  - Lottie
+  - Toast
+  - +RxKeyboard
+  
+- etc
+  - Jira
+  - Confluence
+  - BitBucket
 
 <br/>
 
