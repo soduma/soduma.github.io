@@ -89,7 +89,7 @@ layout: about
 
 ## `Meteor`
 📕 알림 창에 메모해보세요
-![logo210408](https://user-images.githubusercontent.com/69476598/119452474-6053f080-bd71-11eb-840c-fbfa2998a811.png)
+![logo210408](https://user-images.githubusercontent.com/69476598/119452474-6053f080-bd71-11eb-840c-fbfa2998a811.png){: width="1000" height="1000"}
 
 ### Meteor는 아이폰의 기본앱 중 미리알림에서 영감을 받아 제작한 투두 앱입니다.
 >대부분의 TODO 앱이 가지고 있는 '하루 중 지정된 시각'에 '지정된 알림'을 받던 방식을 벗어나   
