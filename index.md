@@ -73,7 +73,7 @@ layout: about
 
 ## `UniWaffle`
 🗃️ 데이터를 서버에 저장하지 않는 블록체인 지갑
-![IMG_7570](https://github.com/soduma/soduma.github.io/assets/69476598/df4ca489-4fdc-4b20-b85e-55918c4e4473)
+![IMG_7570](https://github.com/soduma/soduma.github.io/assets/69476598/df4ca489-4fdc-4b20-b85e-55918c4e4473){: width="700" height="700"}
 
 ### BITCOIN, ETHEREUM, POLYGON, SOLANA를 주소 기반으로 직접 관리할 수 있는 앱입니다.
 >서비스하는 회사가 모든 데이터를 가지고 있는 기존의 블록체인 서비스들과 다르게,
@@ -89,7 +89,7 @@ layout: about
 
 ## `Meteor`
 📕 알림 창에 메모해보세요
-![logo210408](https://user-images.githubusercontent.com/69476598/119452474-6053f080-bd71-11eb-840c-fbfa2998a811.png){: width="1000" height="1000"}
+![logo210408](https://user-images.githubusercontent.com/69476598/119452474-6053f080-bd71-11eb-840c-fbfa2998a811.png)
 
 ### Meteor는 아이폰의 기본앱 중 미리알림에서 영감을 받아 제작한 투두 앱입니다.
 >대부분의 TODO 앱이 가지고 있는 '하루 중 지정된 시각'에 '지정된 알림'을 받던 방식을 벗어나   
