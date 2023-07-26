@@ -76,7 +76,7 @@ layout: about
 ![IMG_7570](https://github.com/soduma/soduma.github.io/assets/69476598/df4ca489-4fdc-4b20-b85e-55918c4e4473){: width="700" height="700"}
 
 ### BITCOIN, ETHEREUM, POLYGON, SOLANA를 주소 기반으로 직접 관리할 수 있는 앱입니다.
->서비스하는 회사가 모든 데이터를 가지고 있는 기존의 블록체인 서비스들과 다르게,
+>서비스하는 회사가 모든 데이터를 가지고 있는 기존의 블록체인 서비스들과 다르게,  
 >등록에 필요한 최소한의 정보만을 유저에게 받은 후 여러 개로 분리하여 분실시에도 마이그레이션을 지원합니다.
 >
 >`Realm`
