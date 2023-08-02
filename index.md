@@ -76,11 +76,11 @@ layout: about
 ![IMG_7570](https://github.com/soduma/soduma.github.io/assets/69476598/df4ca489-4fdc-4b20-b85e-55918c4e4473){: width="90%" height="90%"}
 
 ### Bitcoin, Ethereum, Polygon, Solana를 주소 기반으로 직접 관리할 수 있는 앱입니다.
->유저의 모든 데이터를 소유한 상태로 서비스하는 기존의 회사들과 다르게,  
->등록에 필요한 최소한의 정보만으로 처리하고 이를 여러 개로 분리 후 서버에서 삭제하여 분실시에도 마이그레이션을 지원합니다.
+>유저의 모든 데이터를 소유한 상태로 서비스하는 기존의 블록체인 회사들과 달리 체이닝에 필요한 최소한의 정보만으로 처리하며,  
+>등록 후 이를 여러 개로 분리하여 분실시에도 마이그레이션을 지원합니다.
 >
 >`Realm`
->`TrustWallet`
+>[WalletCore](https://github.com/trustwallet/wallet-core)
 
 - 23년 하반기 출시 예정
 - [UniWaffle](http://uniwaffle.com/)
