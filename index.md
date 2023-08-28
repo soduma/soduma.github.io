@@ -31,7 +31,7 @@ layout: about
 - 한양대학교 블록체인연구원 *(2022. 09 ~ 현재)*
   - 블록체인 기반의 코인들을 관리하고 송금할 수 있는 지갑앱 개발
   - BottomSheet 등의 사용성 개선 작업 및 비즈니스 로직 설계
-  - Realm을 사용하여 대부분의 데이터를 기기 내에서만 처리
+  - Realm을 사용하여 대부분의 데이터를 기기 내에서만 저장하고 처리
   - Int.Max를 초과하는 단위를 컨트롤하는 로직 설계
   - Storyboard -> Code-base 이전
 
@@ -59,8 +59,7 @@ layout: about
   - SwiftyJson
   - Lottie
   - Toast
-  - +RxKeyboard
-  
+    
 - etc
   - Jira
   - Confluence
@@ -83,7 +82,6 @@ layout: about
 >[WalletCore](https://github.com/trustwallet/wallet-core)
 
 - 23년 하반기 출시 예정
-- [UniWaffle](http://uniwaffle.com/)
 
 <br/>
 
@@ -159,33 +157,6 @@ layout: about
 >`TTGTags`
 
 - [Github](https://github.com/soduma/News_MVP123)
-
-<br/>
-
-## `App Store`
-📲 앱스토어 클론앱
-![IMG_BEF0DCD84F25-1](https://user-images.githubusercontent.com/69476598/146875466-76738f5e-b6fe-449f-a35f-e9475d353ec0.jpeg)
-
-### 앱스토어의 레이아웃을 클론한 앱입니다.
->
->`SnapKit`
->`Kingfisher`
-
-- [Github](https://github.com/soduma/AppStore123)
-
-<br/>
-
-## `FLO MusicPlayer`
-🎧 간단한 음악 플레이어
-![FLO_Splash-Img3x(1242x2688)](https://user-images.githubusercontent.com/69476598/123757220-b67bfc80-d8f8-11eb-855b-7fd5abf16c09.png) 
-
-### [programmers.co.kr](https://programmers.co.kr/skill_check_assignments)의 과제입니다.
->상세요구 사항은 아래 repository의 readme를 확인해주세요.
->
->`Kingfisher`
->`AVFoundation`
-
-- [Github](https://github.com/soduma/FLO_iOS)
 
 <br/>
 
