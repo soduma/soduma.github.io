@@ -12,10 +12,12 @@ layout: about
 <br/>
 
 # 🤙🏻 Contacts
-- +82-10-9011-9910
-- <a href="mailto:soduma@naver.com" target="_blank"><img src="https://img.shields.io/badge/soduma@naver.com-005FF9?style=flat-square&logo=maildotru&logoColor=white"/></a>
-- <a href="https://github.com/soduma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-- <a href="https://www.instagram.com/infofield" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+<p>
+<a href="mailto:soduma@naver.com" target="_blank"><img src="https://img.shields.io/badge/soduma@naver.com-005FF9?style=flat-square&logo=maildotru&logoColor=white"/></a>
+<a href="https://github.com/soduma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/infofield" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 
 <br/>
 
