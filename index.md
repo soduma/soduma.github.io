@@ -14,7 +14,7 @@ layout: about
 # 🤙🏻 Contacts
 
 <p>
-<a href="mailto:soduma@naver.com" target="_blank"><img src="https://img.shields.io/badge/soduma@naver.com-005FF9?style=flat-square&logo=maildotru&logoColor=white"/></a>
+<a href="mailto:dev.soduma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dev.soduma@gmail.com-005FF9?style=flat-square&logo=maildotru&logoColor=white"/></a>
 <a href="https://github.com/soduma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/infofield" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
@@ -34,7 +34,7 @@ layout: about
   - 블록체인 기반의 코인들을 관리하고 송금할 수 있는 지갑앱 개발
   - BottomSheet 등의 사용성 개선 작업 및 비즈니스 로직 설계
   - Realm을 사용하여 대부분의 데이터를 기기 내에서만 저장하고 처리
-  - Int.Max를 초과하는 단위를 컨트롤하는 로직 설계
+  - Int.max를 초과하는 단위를 컨트롤하는 로직 설계
   - 전체 화면에 대한 Storyboard -> Code-base 이전
 
 <br/>
@@ -108,9 +108,8 @@ layout: about
 ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/69476598/158305091-296e74b5-c94b-4f5a-9db6-312bcdbb6dbb.gif)
 
 ### 키워드를 통해 사진을 제공하는 앱입니다.
->completion handler를 대체하여 async/await로 구현하였습니다.
 >
->`async/await`
+>`RxSwift`
 >`Alamofire`
 >`Kingfisher`
 
