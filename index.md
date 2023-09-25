@@ -22,6 +22,12 @@ layout: about
 <br/>
 
 # 📖 Education
+- Fast Campus *(2021.10.28 ~ 2022. 02. 11)*
+  - 30개 프로젝트로 배우는 iOS 앱 개발 with Swift 초격차 패키지 Online.
+  
+- Fast Campus *(2021.01.12 ~ 2021. 06. 23)*
+  - iOS 앱 개발 올인원 패키지 Online.
+  
 - 동의대학교 e비즈니스전공 *(2012. 03 - 2019. 02)*
   - 경영학과 컴퓨터공학이 어우러져 있는 학문입니다.
   - CS의 기초 및 Java, SQL 등의 언어를 수강하였습니다.
@@ -36,6 +42,15 @@ layout: about
   - Realm을 사용하여 대부분의 데이터를 기기 내에서만 저장하고 처리
   - Int.max를 초과하는 단위를 컨트롤하는 로직 설계
   - 전체 화면에 대한 Storyboard -> Code-base 이전
+  
+- 현대자동차 *(2020. 08 ~ 2021. 06)*
+  - 울산공장 생산직
+  
+- 국립수산과학원 *(2020. 03 ~ 2020. 06)*
+  - 수산공학과 Intern
+  
+- 이트너스 *(2020. 01 ~ 2020. 02)*
+  - Payroll 사업부 Intern
 
 <br/>
 
@@ -44,25 +59,25 @@ layout: about
   - Swift
   - UIKit
   - SwiftUI
-  - AVFoundation
   - Storyboard
   - Autolayout
   - Concurrency(async/await)
+  - AVFoundation
   - SPM
   
 - Library
   - CocoaPods
-  - Firebase
-  - SnapKit
-  - Kingfisher
   - Alamofire
-  - SwiftLint
-  - Realm
-  - SwiftyJson
+  - Firebase
+  - Kingfisher
   - Lottie
+  - Realm
+  - SnapKit
+  - SwiftLint
+  - SwiftyJson
   - Toast
     
-- etc
+- etc.
   - Jira
   - Confluence
   - BitBucket
