@@ -58,9 +58,10 @@ layout: about
 - iOS
   - Swift
   - UIKit
-  - SwiftUI
   - Storyboard
   - Autolayout
+  - SwiftUI
+  - Combine
   - Concurrency(async/await)
   - AVFoundation
   - SPM
@@ -91,11 +92,14 @@ layout: about
 🗃️ 데이터를 서버에 저장하지 않는 블록체인 지갑
 ![IMG_7570](https://github.com/soduma/soduma.github.io/assets/69476598/df4ca489-4fdc-4b20-b85e-55918c4e4473){: width="90%" height="90%"}
 
-### Bitcoin, Ethereum, Polygon, Solana를 주소 기반으로 직접 관리할 수 있는 앱입니다.
+### Bitcoin, Ethereum, Polygon, Solana를 주소 기반으로 사용자가 직접 관리할 수 있는 앱입니다.
 >유저의 모든 데이터를 소유한 상태로 서비스하는 기존의 블록체인 회사들과 달리 체이닝에 필요한 최소한의 정보만으로 처리하며, 등록 후 이를 여러 개로 분리하여 분실시에도 마이그레이션을 지원합니다.
 >
 >`Realm`
 >`WalletCore`
+>`SnapKit`
+>`Lottie`
+>`Alamofire`
 
 <br/>
 
@@ -107,8 +111,12 @@ layout: about
 >대부분의 TODO 앱이 가지고 있는 '하루 중 지정된 시각'에 '지정된 알림'을 받던 방식을 벗어나   
 >**입력한 내용을 즉시 푸시**하여 아이폰의 알림센터를 하나의 메모장으로 사용할 수 있도록 구현하였습니다.
 >
->`WidgetKit`
->`Firebase Realtime Database`
+>`UIKit`
+>`SwiftUI`
+>`WidgetKit + ActivityKit`
+>`Firebase`
+>`SnapKit`
+>`Alamofire`
 
 *한국어, 영어에 대해 현지화가 되어 있습니다.*
 - [App Store](https://apps.apple.com/kr/app/meteor/id1562989730)
